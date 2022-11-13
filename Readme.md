@@ -15,7 +15,7 @@
 - Hosted on Netlify
 - Fully Responsive in all screens
 
-# [Live-Link](https://paytm-clone02.netlify.app/)
+# [Live-Link](https://thisisforeducationalpurpose.netlify.app/)
 
 # Screenshot
 
